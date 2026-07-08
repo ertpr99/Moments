@@ -1,0 +1,8 @@
+{
+  "appId": "com.moments.test",
+  "appName": "Moments",
+  "webDir": ".",
+  "server": {
+    "androidScheme": "https"
+  }
+}
