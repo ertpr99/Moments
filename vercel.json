@@ -1,0 +1,20 @@
+{
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
+  "cleanUrls": true,
+  "trailingSlash": false,
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/moments/preview-dashboard/index.html"
+    },
+    {
+      "source": "/preview-dashboard",
+      "destination": "/moments/preview-dashboard/index.html"
+    },
+    {
+      "source": "/landing-page",
+      "destination": "/moments/landing-page/index.html"
+    }
+  ]
+}

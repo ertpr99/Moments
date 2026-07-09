@@ -1,0 +1,9 @@
+{
+  "name": "Moments Test App",
+  "short_name": "Moments",
+  "start_url": "/preview-dashboard",
+  "display": "standalone",
+  "background_color": "#EEE9C8",
+  "theme_color": "#C76E7A",
+  "lang": "tr"
+}
